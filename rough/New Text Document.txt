@@ -1,0 +1,3 @@
+pip install django-clearcache
+pip install pymysql
+mohan.muniswamy@wipro.com
